@@ -1,0 +1,1 @@
+Esta segunda versão permite com que o usuário digite os 2 numeros e a função os soma.
